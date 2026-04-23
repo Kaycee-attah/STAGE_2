@@ -8,7 +8,7 @@ A fully responsive Invoice Management Application built with React and Vite.
 
 ## Live Demo
 
-[View on Vercel](#) ← replace with your URL
+[View on Vercel]([#](https://stage-2-81au7gts6-attahkelechi97-3050s-projects.vercel.app))
 
 ---
 
